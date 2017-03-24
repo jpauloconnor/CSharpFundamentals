@@ -4,3 +4,9 @@ C:\Users\ElevenFifty\Desktop\CSharpLibrary\CSharpLibrary\0.09_Constructors_Chall
 C:\Users\ElevenFifty\Desktop\CSharpLibrary\CSharpLibrary\0.09_Constructors_Challenge\obj\Debug\0.09_Constructors_Challenge.exe
 C:\Users\ElevenFifty\Desktop\CSharpLibrary\CSharpLibrary\0.09_Constructors_Challenge\obj\Debug\0.09_Constructors_Challenge.pdb
 C:\Users\ElevenFifty\Desktop\CSharpLibrary\CSharpLibrary\0.09_Constructors_Challenge\obj\Debug\0.09_Constructors_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.09_Constructors_Challenge\bin\Debug\0.09_Constructors_Challenge.exe.config
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.09_Constructors_Challenge\bin\Debug\0.09_Constructors_Challenge.exe
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.09_Constructors_Challenge\bin\Debug\0.09_Constructors_Challenge.pdb
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.09_Constructors_Challenge\obj\Debug\0.09_Constructors_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.09_Constructors_Challenge\obj\Debug\0.09_Constructors_Challenge.exe
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.09_Constructors_Challenge\obj\Debug\0.09_Constructors_Challenge.pdb

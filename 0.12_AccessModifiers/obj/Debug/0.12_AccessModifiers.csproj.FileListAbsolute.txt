@@ -1,0 +1,6 @@
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.12_AccessModifiers\bin\Debug\0.12_AccessModifiers.exe.config
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.12_AccessModifiers\bin\Debug\0.12_AccessModifiers.exe
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.12_AccessModifiers\bin\Debug\0.12_AccessModifiers.pdb
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.12_AccessModifiers\obj\Debug\0.12_AccessModifiers.csprojResolveAssemblyReference.cache
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.12_AccessModifiers\obj\Debug\0.12_AccessModifiers.exe
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.12_AccessModifiers\obj\Debug\0.12_AccessModifiers.pdb

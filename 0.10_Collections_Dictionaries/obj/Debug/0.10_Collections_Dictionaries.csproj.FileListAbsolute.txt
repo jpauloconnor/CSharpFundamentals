@@ -1,0 +1,6 @@
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.10_Collections_Dictionaries\bin\Debug\0.10_Collections_Dictionaries.exe.config
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.10_Collections_Dictionaries\bin\Debug\0.10_Collections_Dictionaries.exe
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.10_Collections_Dictionaries\bin\Debug\0.10_Collections_Dictionaries.pdb
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.10_Collections_Dictionaries\obj\Debug\0.10_Collections_Dictionaries.csprojResolveAssemblyReference.cache
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.10_Collections_Dictionaries\obj\Debug\0.10_Collections_Dictionaries.exe
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.10_Collections_Dictionaries\obj\Debug\0.10_Collections_Dictionaries.pdb

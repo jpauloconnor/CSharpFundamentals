@@ -1,0 +1,5 @@
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.11_Inheritance\bin\Debug\0.11_Inheritance.exe.config
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.11_Inheritance\bin\Debug\0.11_Inheritance.exe
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.11_Inheritance\bin\Debug\0.11_Inheritance.pdb
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.11_Inheritance\obj\Debug\0.11_Inheritance.exe
+C:\Users\kenn3\Desktop\CSharpFundamentals\0.11_Inheritance\obj\Debug\0.11_Inheritance.pdb
