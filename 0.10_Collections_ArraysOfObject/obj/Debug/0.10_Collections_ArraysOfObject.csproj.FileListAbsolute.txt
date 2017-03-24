@@ -1,0 +1,5 @@
+C:\Users\ElevenFifty\Desktop\CSharpLibrary\CSharpLibrary\0.10_Collections_ArraysOfObject\bin\Debug\0.10_Collections_ArraysOfObject.exe.config
+C:\Users\ElevenFifty\Desktop\CSharpLibrary\CSharpLibrary\0.10_Collections_ArraysOfObject\bin\Debug\0.10_Collections_ArraysOfObject.exe
+C:\Users\ElevenFifty\Desktop\CSharpLibrary\CSharpLibrary\0.10_Collections_ArraysOfObject\bin\Debug\0.10_Collections_ArraysOfObject.pdb
+C:\Users\ElevenFifty\Desktop\CSharpLibrary\CSharpLibrary\0.10_Collections_ArraysOfObject\obj\Debug\0.10_Collections_ArraysOfObject.exe
+C:\Users\ElevenFifty\Desktop\CSharpLibrary\CSharpLibrary\0.10_Collections_ArraysOfObject\obj\Debug\0.10_Collections_ArraysOfObject.pdb

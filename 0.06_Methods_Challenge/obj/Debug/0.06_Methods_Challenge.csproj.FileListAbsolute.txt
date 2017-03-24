@@ -1,0 +1,6 @@
+C:\Users\ElevenFifty\Desktop\CSharpLibrary\CSharpLibrary\0.06_Methods_Challenge\bin\Debug\0.06_Methods_Challenge.exe.config
+C:\Users\ElevenFifty\Desktop\CSharpLibrary\CSharpLibrary\0.06_Methods_Challenge\bin\Debug\0.06_Methods_Challenge.exe
+C:\Users\ElevenFifty\Desktop\CSharpLibrary\CSharpLibrary\0.06_Methods_Challenge\bin\Debug\0.06_Methods_Challenge.pdb
+C:\Users\ElevenFifty\Desktop\CSharpLibrary\CSharpLibrary\0.06_Methods_Challenge\obj\Debug\0.06_Methods_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\ElevenFifty\Desktop\CSharpLibrary\CSharpLibrary\0.06_Methods_Challenge\obj\Debug\0.06_Methods_Challenge.exe
+C:\Users\ElevenFifty\Desktop\CSharpLibrary\CSharpLibrary\0.06_Methods_Challenge\obj\Debug\0.06_Methods_Challenge.pdb
