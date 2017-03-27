@@ -12,7 +12,6 @@ namespace _0._12_AccessModifiers
         {
             Acura tl = new Acura("TL", 2000, 500);
 
-
             Console.WriteLine(tl.AcuraDetails());
 
             Console.ReadLine();
