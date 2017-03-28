@@ -45,6 +45,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_Inheritance", "0.11_In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_AccessModifiers", "0.12_AccessModifiers\0.12_AccessModifiers.csproj", "{60D8D0F4-2663-47DE-A385-1B74C463CEBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.13_GetterandSetters", "0.13_GetterandSetters\0.13_GetterandSetters.csproj", "{1DD4A0A7-1FD1-478B-A0AC-B95E3135D5D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.14_FantasyGame", "0.14_FantasyGame\0.14_FantasyGame.csproj", "{ED801314-2F5F-4AFE-A3B4-136E00C4E2C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.14_FantasyGame.Enemies", "0.14_FantasyGame.Enemies\0.14_FantasyGame.Enemies.csproj", "{083BF90F-7926-4E6B-AFFA-093C3D4C00E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +141,18 @@ Global
 		{60D8D0F4-2663-47DE-A385-1B74C463CEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60D8D0F4-2663-47DE-A385-1B74C463CEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60D8D0F4-2663-47DE-A385-1B74C463CEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DD4A0A7-1FD1-478B-A0AC-B95E3135D5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD4A0A7-1FD1-478B-A0AC-B95E3135D5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD4A0A7-1FD1-478B-A0AC-B95E3135D5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD4A0A7-1FD1-478B-A0AC-B95E3135D5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED801314-2F5F-4AFE-A3B4-136E00C4E2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED801314-2F5F-4AFE-A3B4-136E00C4E2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED801314-2F5F-4AFE-A3B4-136E00C4E2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED801314-2F5F-4AFE-A3B4-136E00C4E2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083BF90F-7926-4E6B-AFFA-093C3D4C00E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083BF90F-7926-4E6B-AFFA-093C3D4C00E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083BF90F-7926-4E6B-AFFA-093C3D4C00E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083BF90F-7926-4E6B-AFFA-093C3D4C00E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
